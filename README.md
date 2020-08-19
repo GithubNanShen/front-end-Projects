@@ -1,7 +1,4 @@
-# This is a demo repository
+### This project finished at August 19, 2020
 
-Some description.
 
-##Subheader
 
-This is a paragraph.
